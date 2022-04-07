@@ -26,7 +26,7 @@ We'll cover the basics of Open Access publishing and Data Sharing.
 
 > ## Approach
 > * **Practical workflow change**: we want to produce actual changes to how people work by tweaking their default workflow
-> * **No homework** for busy researchers (including you!)
+> * **No homework** for busy researchers
 > * **Better is good** - we want everyone doing something a bit better by the end
 {: .callout}
 

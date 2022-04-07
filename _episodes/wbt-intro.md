@@ -21,6 +21,17 @@ order: 900000
 
 ---
 
+## Brief introduction
+
+Today all we'll do is show you what the Workshop Builder Tool is and what it does.
+The rest of the content on this page you can work through on your own if you're interested --
+and we're usually only an email away if you have questions.
+
+The Workshop Builder Tool is designed to streamline the creation of websites like this one that
+present a series of lessons based on [The Carpentries'](https://carpentries.org/) workshop website template.
+It uses GitHub to create, manage, and serve the website, and is designed to allow you to do
+all that without having to edit files on GitHub directly.
+
 ## Workshop Builder Tool
 
 Building a workshop can be a lot of work, and a lot of that work is the same for all of you, despite the specific content being different.

@@ -4,12 +4,13 @@ teaching: 5 # time required to teach (minutes)
 exercises: 5 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
-summary: Use the Workshop Builder Tool and Open Research Resources Browser to build your workshop.
+summary: Familiarise yourself with the Open Research Resources Browser.
 questions: # list of questions we are trying to answer
 objectives: # list of learning outcomes
+ - Be able to search the Open Research Resource Browser for resources
  - Build the framework for your workshop, and complete the first couple of components
 keypoints:  # list of take-home points
- - Keep focused on what you want your colleagues to do differently
+ - The Open Research Resource Browser resources can be added to via our Google Sheets document
 
 is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
@@ -19,24 +20,15 @@ order: 600000
 
 ---
 
-We now have a chance to actually build a workshop.
-We are not aiming for a template or for notes that we're expecting you to develop on your own time - we want to produce a workshop right now that you could deliver tomorrow morning.
+The <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resource Browser</a> is a tool that reads and filters a Google Sheets document we have created (and to which you can contribute) which lists open research resources.
 
-Now you can build your workshop plan into a workshop using the <a href="{{ site.ukrn_or_builder }}" target="_blank">Workshop Builder Tool</a> and <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resources Browser</a>.
-When you're using the builder, try adding the lessons from the <a href="{{ site.ukrn_or_demo }}" target="_blank">Open Access Demo Workshop</a>.
-You can then drag the pages into your workshop and tweak them to say what you want them to say!
+You should find the Browser intuitive to use, but ask if you're not sure.
 
-If you prefer, you can create your workshop using other tools, of course - the important thing is to get it done!
+> ## Can you... `10 min`
+> 1. Find NASA's GeneLab
+> 2. Work out how many Humanities resources there are
+> 3. Find the data repositories which mention 'sequence' in their description
+{: .challenge}
 
-> ## Remember:
-> * The focus is on producing practical changes
-> * Don't give out homework
-> * What do they need to understand to implement workflow changes?
-{: .callout}
-
-> ## We're here to help
-> Ask us if you get stuck, or just want to talk something over.
->
-{: .testimonial}
-
-We'll have a break in 60 minutes and take stock of how everyone's getting on.
+The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
+Contributions can be added and available instantly, so just ask us to add something if you think others might benefit from it.
