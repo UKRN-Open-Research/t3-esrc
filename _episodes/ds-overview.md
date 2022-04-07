@@ -17,7 +17,7 @@ order: 200000
 
 ---
 
-## Introduction to Open Access
+## Introduction to Data Sharing
 
-There will be a short presentation on open access publishing.
+There will be a short presentation on data sharing.
 
