@@ -18,7 +18,7 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 300000
+order: 500000
 
 ---
 
