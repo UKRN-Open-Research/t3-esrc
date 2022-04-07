@@ -1,7 +1,7 @@
 ---
-title: Workshop Builder Tool Introduction # title of the episode
-teaching: 15 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
+title: Workshop Builder Tool Taster # title of the episode
+teaching: 5 # time required to teach (minutes)
+exercises: # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: An introduction to the Workshop Builder Tool and the Open Research Resource Browser, including a short exercise where you'll set up your own workshop website.
@@ -17,7 +17,7 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 500000
+order: 900000
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Workshop Building (Part 1) # title of the episode
-teaching:  # time required to teach (minutes)
-exercises: 45 # time required for participants to do the activities (minutes)
+title: UKRN Resource Browser # title of the episode
+teaching: 5 # time required to teach (minutes)
+exercises: 5 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Use the Workshop Builder Tool and Open Research Resources Browser to build your workshop.
@@ -36,7 +36,7 @@ If you prefer, you can create your workshop using other tools, of course - the i
 
 > ## We're here to help
 > Ask us if you get stuck, or just want to talk something over.
-> 
+>
 {: .testimonial}
 
 We'll have a break in 60 minutes and take stock of how everyone's getting on.

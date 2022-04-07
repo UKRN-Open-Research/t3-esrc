@@ -1,6 +1,6 @@
 ---
-title: Workshop Planning # title of the episode
-teaching: 15 # time required to teach (minutes)
+title: Discussion of Challenges and Aims # title of the episode
+teaching: 5 # time required to teach (minutes)
 exercises: 15 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
@@ -47,7 +47,7 @@ Contributions can be added and available instantly, so just ask us to add someth
 
 > ## Plan your workshop `25 min`
 > Working alone or in a small group (especially if you're planning a workshop on a similar topic), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
-> 
+>
 > **Think about..**
 > - Which aspects of the demo lessons would you use in your workshop? What is missing? What would you leave out or change?
 > - What resources will you use to help you develop your workshop?

@@ -1,7 +1,7 @@
 ---
-title: Running a Workshop # title of the episode
-teaching: 30 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
+title: Overview of Data Sharing # title of the episode
+teaching: 15 # time required to teach (minutes)
+exercises: 5 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Tips on making content engaging and running a successful workshop.
