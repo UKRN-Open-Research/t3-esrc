@@ -1,6 +1,6 @@
 Open Research training aims to helps researchers produce practical changes to their everyday workflow to make their research more open, transparent, and robust.
-Preregistering your research allows you to specify the research you plan to do in advance.
-This Train-the-Trainer course will support researchers who are practiced in writing preregistrations or Registered Reports in helping their colleagues to integrate these practices into their existing workflow.
+This Train-the-Trainer course will support doctoral training programme staff to lead workshops teaching researchers how to integrate these practices into their existing workflow.
+
 
 The key components of the UKRN Open Research Training ethos are:
 <details>
@@ -40,8 +40,7 @@ The key components of the UKRN Open Research Training ethos are:
 </details>
 <br/>
 
-This short course will equip you with a workshop, similar in style to this one but with bespoke content customised and tweaked by you.
-We'll provide some inspiration about ways to engage your colleagues, and some tips on how to run a successful workshop.
-We'll teach you how to use our Workshop Builder Tool and Open Research Resource Browser, and then we'll turn you loose with them to create your own workshop.
+This short course will provide some inspiration about ways to engage your colleagues, and some tips on how to run a successful workshop.
+Alongside your co-attendees, you'll design small sections of content that can be woven together into your teaching.
 
 We'll be right here the whole time to answer questions, discuss ideas, and solve any technical issues.

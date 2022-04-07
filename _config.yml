@@ -17,7 +17,7 @@ start_times: ["11|00"]
 # list of files in _includes/install_instructions to use in the setup page
 setup_files: []
 language: en
-venue: University of Bristol’s School of Psychological Science, 12A Priory Road, Bristol BS8 1TU
+venue: Online
 address:
 country:
 latitude:
