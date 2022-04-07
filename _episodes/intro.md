@@ -49,6 +49,29 @@ in designing and delivering your own workshops.
 > * Membership of an enthusiastic community of like-minded researchers in various disciplines
 {: .checklist}
 
+### Familiarise yourself with Gather.Town
+
+Gather.Town is a virtual space where we have our workshop.
+You can move around and interact with others, as well as sharing screens and whiteboards.
+
+Here are the key things to know:
+- Move your avatar with the keyboard or by clicking where you want to go
+  - Ghost mode - hold <kbd>g</kbd> - allows you to walk through people
+- There is a distance at which you can interact with people -- walk around and you'll discover how big this is.
+- There is a chat bar on the side that offers Nearby/Everyone/private chats
+  - You'll mostly be using Everyone chat
+- For many parts we'll use Broadcasts in a big room
+  - Broadcast means everyone can hear the broadcaster (and they can hear everyone), even if they'd normally be too far away.
+- Private rooms
+  - We have a few private rooms for breakout groups and for 1-1 help
+  - Only those inside the room hear you
+- Technical issues
+  - If you're having trouble accessing Gather.Town, please email the organisers for help
+
+As with other videoconferencing platforms, please mute yourself while not talking so that
+we minimise background noise.
+You can mute other people for yourself if you like (click on their microphone icon)
+
 ### Introduce Yourself
 
 > ## Activity `5 min`

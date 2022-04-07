@@ -6,8 +6,6 @@ duration: # duration for a break, not needed if teaching/exercises are present (
 # summary of the episode content for displaying on the schedule page
 summary: An introduction to the suggested workshop topics and a chance to plan your workshop content.
 questions: # list of questions we are trying to answer
-  - What aims do you have for your workshop?
-  - What do you want to achieve?
 objectives: # list of learning outcomes
   - Use the resources available to help plan your workshop
 keypoints:  # list of take-home points
@@ -21,8 +19,9 @@ order: 400000
 
 ---
 
-> ## Scoping your workshop `25 min`
-> Working in a small group (especially if you're planning a workshop on a similar topic), talk about the content you think your colleagues will need to know for their own work.
+> ## Scoping your workshop `15 min`
+> Working in a small group (especially if you're planning a workshop on a similar topic),
+> talk about the content you think your colleagues will need to know for their own work.
 >
 > **Think about...**
 > - What aims do you have for your workshop? What do you want to achieve?
@@ -39,5 +38,5 @@ order: 400000
 > - What exercises work best for what learning objectives
 > - Feedback on your workshop plan
 > - Best practices that you aren't sure about
-> - General questions about open access publishing
+> - General questions about open access publishing and data sharing
 {: .objectives}

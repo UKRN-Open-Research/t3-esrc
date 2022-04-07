@@ -19,7 +19,8 @@ order: 700000
 ---
 
 It's time to try to apply what we learned earlier in Louise's session to our own workshops.
-We have compiled a list of suggested topics in the
+You probably already chose a topic earlier today, but in case you missed it,
+the list of suggested topics is in the
 <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>.
 If you put your name beside the topic you want to cover we'll be able to ensure that everyone
 takes a different topic.
@@ -37,7 +38,7 @@ already planned out with engaging activities -- many hands make light work.
 > - Get people engaged?
 > - Get attendees to try something for themselves?
 >
-> ## Think about what exercises will work best with your logistical constraints:
+> Think about what exercises will work best with your logistical constraints:
 > - Time
 > - Format (online or in person)
 > - Number of attendees

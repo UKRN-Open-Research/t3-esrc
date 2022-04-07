@@ -8,7 +8,6 @@ summary: Familiarise yourself with the Open Research Resources Browser.
 questions: # list of questions we are trying to answer
 objectives: # list of learning outcomes
  - Be able to search the Open Research Resource Browser for resources
- - Build the framework for your workshop, and complete the first couple of components
 keypoints:  # list of take-home points
  - The Open Research Resource Browser resources can be added to via our Google Sheets document
 
@@ -25,9 +24,9 @@ The <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resource 
 You should find the Browser intuitive to use, but ask if you're not sure.
 
 > ## Can you... `10 min`
-> 1. Find NASA's GeneLab
-> 2. Work out how many Humanities resources there are
-> 3. Find the data repositories which mention 'sequence' in their description
+> 1. Find the ESRC's research data policy
+> 2. Filter for Social Sciences resources
+> 3. Find the text resources which mention 'metadata' in their description
 {: .challenge}
 
 The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
