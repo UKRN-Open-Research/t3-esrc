@@ -1,5 +1,5 @@
 ---
-title: Workshop Segement Design # title of the episode
+title: Workshop Segment Design # title of the episode
 teaching:  # time required to teach (minutes)
 exercises: 50 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
